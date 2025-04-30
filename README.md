@@ -1,4 +1,4 @@
-# Predicting Impact on Readmission Rates for Patients Hospitalized with Diabetes
+# Predicting the Impact on Re-admission Rates for Hospitalized Diabetic Patient
 
 ### Problem Statement 
 
